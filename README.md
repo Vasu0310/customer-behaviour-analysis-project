@@ -31,6 +31,7 @@ Feature engineering:
 Age groups
 Purchase frequency
 Removed redundant columns (promo_code_used)
+
 Loaded cleaned data into MySQL database
 2️⃣ Data Analysis (MySQL)
 
@@ -46,6 +47,7 @@ Customer segmentation (New / Returning / Loyal)
 Top products per category
 Repeat buyers vs subscription trends
 Revenue contribution by age group
+
 📊 Power BI Dashboard
 
 An interactive dashboard was developed using Power BI to visualize key insights and enable business decision-making.
